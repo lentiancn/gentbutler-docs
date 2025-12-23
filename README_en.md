@@ -28,11 +28,11 @@ Chinese name: `田隆 (Tian Long)` , English name: `Len`
 
 #### BW
 
-![Trademark Image](LOGO/src/bw_logo_1024x1024.png)
+![Trademark Image](LOGO/BW/logo_1024x1024.png)
 
 #### CLR
 
-![Trademark Image](LOGO/src/logo_1024x1024.png)
+![Trademark Image](LOGO/CLR/logo_1024x1024.png)
 
 ## License
 

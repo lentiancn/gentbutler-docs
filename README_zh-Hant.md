@@ -28,11 +28,11 @@
 
 #### 黑白
 
-![商標圖片](LOGO/src/bw_logo_1024x1024.png)
+![商標圖片](LOGO/BW/logo_1024x1024.png)
 
 #### 彩色
 
-![商標圖片](LOGO/src/logo_1024x1024.png)
+![商標圖片](LOGO/CLR/logo_1024x1024.png)
 
 ## 許可證
 
