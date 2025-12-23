@@ -26,7 +26,7 @@
 
 ### 商標圖片
 
-![商標圖片](../LOGO/src/bw_logo_1024x1024.png)
+![商標圖片](LOGO/src/bw_logo_1024x1024.png)
 
 ## 許可證
 
