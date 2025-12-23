@@ -31,3 +31,7 @@
 ## 許可證
 
 (`简特管家`、`簡特管家`、`GentButler`) 採用 [MIT 協議](LICENSE) 進行授權 。
+
+## 聯絡方式
+
+電子信箱： lentiancn@126.com

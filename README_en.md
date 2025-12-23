@@ -31,3 +31,7 @@ Chinese name: `田隆 (Tian Long)` , English name: `Len`
 ## License
 
 (`简特管家`、`簡特管家`、`GentButler`) is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+E-mail: lentiancn@126.com

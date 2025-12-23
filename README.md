@@ -31,3 +31,7 @@
 ## 许可证
 
 (`简特管家`、`簡特管家`、`GentButler`) 的授权遵循 [MIT 许可证](LICENSE) 。
+
+## 联系方式
+
+电子邮箱： lentiancn@126.com
