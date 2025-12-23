@@ -8,7 +8,7 @@ English | [简体中文](README.md) | [繁體中文](README_zh-Hant.md)
 
 ## Trademark
 
-[Click here](%E5%95%86%E6%A0%87/README_en.md)
+[Click here](Trademark/README_en.md)
 
 ## License
 

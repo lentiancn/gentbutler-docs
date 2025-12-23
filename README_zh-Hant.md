@@ -8,7 +8,7 @@
 
 ## 商標
 
-[點擊這裡](%E5%95%86%E6%A0%87/README_zh-Hant.md)
+[點擊這裡](Trademark/README_zh-Hant.md)
 
 ## 許可證
 

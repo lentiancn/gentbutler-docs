@@ -8,7 +8,7 @@
 
 ## 商标
 
-[点击这里](%E5%95%86%E6%A0%87/README.md)
+[点击这里](Trademark/README.md)
 
 ## 许可证
 

@@ -20,4 +20,4 @@
 
 ## 商標圖片
 
-![商標圖片](../LOGO/%E5%8E%9F%E5%A7%8B%E5%9B%BE/%E9%BB%91%E7%99%BD_logo_1024x1024.png)
+![商標圖片](../LOGO/src/bw_logo_1024x1024.png)
