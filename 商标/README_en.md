@@ -1,6 +1,6 @@
 # Trademark
 
-English | [简体中文](README_zh-Hans.md) | [繁體中文](README_zh-Hant.md)
+English | [简体中文](README.md) | [繁體中文](README_zh-Hant.md)
 
 ## Applicant ( Right Holder or Intellectual Property Owner )
 

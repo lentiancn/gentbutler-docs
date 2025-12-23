@@ -1,6 +1,6 @@
 # 簡特管家
 
-繁體中文 | [English](README.md) | [简体中文](README_zh-Hans.md)
+繁體中文 | [English](README_en.md) | [简体中文](README.md)
 
 ## LOGO
 
