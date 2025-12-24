@@ -20,8 +20,8 @@ Chinese name: `田隆 (Tian Long)` , English name: `Len`
 
 | **Language**        | **Trademark Name** |
 |---------------------|--------------------|
-| Simplified Chinese  | `简特管家`             |
-| Traditional Chinese | `簡特管家`             |
+| Simplified Chinese  | `简特优理`             |
+| Traditional Chinese | `簡特優理`             |
 | English             | `GentButler`       |
 
 ### Trademark Image
@@ -36,7 +36,7 @@ Chinese name: `田隆 (Tian Long)` , English name: `Len`
 
 ## License
 
-(`简特管家`、`簡特管家`、`GentButler`) is licensed under the [MIT License](LICENSE).
+(`简特优理`、`簡特優理`、`GentButler`) is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
